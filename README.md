@@ -117,7 +117,7 @@ The app is ready for [Streamlit Community Cloud](https://share.streamlit.io):
    **Main file path: `app.py`** and Python 3.12.
 3. No secrets or API keys are required.
 
-Live app: STREAMLIT_URL_PLACEHOLDER
+Live app: https://imdb-sentiment-analysis-rnn-tcdwkfqmtpcqnxvesaxbqd.streamlit.app/
 
 ## Notes and Limitations
 
